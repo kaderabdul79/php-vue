@@ -1,0 +1,91 @@
+{
+  "contacts": [
+    {
+      "id": "fgh",
+      "name": "Hasan",
+      "email": "hasan@gmail.com",
+      "company": "I233 TEch.",
+      "title": "Web Designer",
+      "mobile": "01855753025",
+      "photo": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=robohash&f=y",
+      "groupId": "1",
+      "gender": "male",
+      "education": [
+        "SSC",
+        "HSC",
+        "BSC"
+      ]
+    },
+    {
+      "id": "fgh",
+      "name": "Rahim",
+      "email": "rahim@gmail.com",
+      "company": "Soft IT.",
+      "title": "Web Developerr",
+      "mobile": "01453326578",
+      "photo": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=wavatar&f=y",
+      "groupId": "3",
+      "gender": "female",
+      "education": [
+        "SSC",
+        "HSC"
+      ]
+    },
+    {
+      "id": "kader3",
+      "name": "partho",
+      "email": "partho@gmail.com",
+      "company": "Quas in nostrum elit",
+      "title": "Atque cupiditate qui",
+      "mobile": 96,
+      "photo": "partho",
+      "groupId": "1",
+      "gender": "female",
+      "education": [
+        "BSC"
+      ]
+    },
+    {
+      "id": "consectetur2",
+      "name": "In consectetur ad c",
+      "email": "jahuge@mailinator.com",
+      "mobile": 33,
+      "title": "Quis explicabo Ab q",
+      "company": "Ex magna omnis incid",
+      "photo": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "groupId": "2",
+      "gender": "male",
+      "education": [
+        "HSC"
+      ]
+    },
+    {
+      "id": "jilan7",
+      "name": "Officia ipsum beata",
+      "email": "nalula@mailinator.com",
+      "mobile": 60,
+      "title": "Eveniet cum minus q",
+      "company": "Dolor qui id commod",
+      "photo": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=robohash&f=y",
+      "groupId": "1",
+      "gender": "male",
+      "education": [
+        "HSC"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    }
+  ]
+}
